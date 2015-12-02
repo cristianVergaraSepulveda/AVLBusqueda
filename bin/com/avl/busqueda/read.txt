@@ -1,0 +1,3 @@
+InOrden: hijoIzq->  raiz-> hijoderecho
+PreOrden: Raiz -> HijoIzq -> hijoDer
+PostOrden: jihoIzq -> hijoDer -> raiz

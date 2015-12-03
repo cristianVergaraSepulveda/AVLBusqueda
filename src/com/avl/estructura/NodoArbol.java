@@ -15,3 +15,4 @@ public class NodoArbol {
 		return nombre +" Su dato es "+ dato;
 	}
 }
+     
